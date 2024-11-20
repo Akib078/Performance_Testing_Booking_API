@@ -8,7 +8,9 @@ https://restful-booker.herokuapp.com/apidoc/index.html
 
 ## Test items: 
 i. Conducted PUT, POST, GET, DELETE, PATCH operations to validate the API.
+
 ii. Set different Threads, Periods and Loop to ensure the API performance and stability. 
+
 iii. Applied different Listeners to check results. 
 
 ## Response Time Graph:
